@@ -2,3 +2,4 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=liquidGo&layout=compact&theme=tokyonight)
 
+![Visitor Count](https://profile-counter.glitch.me/{liquidGo}/count.svg)
